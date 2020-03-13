@@ -1,0 +1,9 @@
+﻿  publisher.cpp
+  main.cpp
+  book.cpp
+  person.cpp
+  library.cpp
+  borrower.cpp
+  author.cpp
+  Generating Code...
+  Library.vcxproj -> C:\Users\Dolans Razer\Downloads\Library C++\Library\Debug\Library.exe
